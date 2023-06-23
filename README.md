@@ -13,6 +13,8 @@
 
 ![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoPazzini&show_icons=true&theme=radical)
 
+<img align="right" src="https://github.com/DiegoPazzini/DiegoPazziniProfile/assets/137452542/512de9ea-a144-41d1-9309-4fb47cb59592" width="300px" />
+
 ##Tecnologias que eu uso no meu dia:
 
 <div style="display: inline_block"><br/>
@@ -30,4 +32,4 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DiegoPazzini&bg_color=000000&color=9e8d4c&line=4c659e&point=3f3e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![picasion com_443c1c6d5dcb5fc0ac5fe0c8b04070b3](https://github.com/DiegoPazzini/DiegoPazziniProfile/assets/137452542/4174352a-b12f-4f33-8ed6-703ac24c49dc)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
